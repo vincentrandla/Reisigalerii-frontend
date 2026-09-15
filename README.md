@@ -2,7 +2,7 @@
 
 A travel agency for the Estonian market — pick a country, browse hotel offers, and get connected with a real travel agent to finalize your booking directly.
 
-**Live demo:** COMING SOON 🚧
+**Live demo:**
 
 ![Reisigalerii homepage](./screenshot-home.png)
 
